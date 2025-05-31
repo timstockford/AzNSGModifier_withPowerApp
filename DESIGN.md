@@ -3,7 +3,7 @@
 ## Application Flow
 ```mermaid
 flowchart TD
-    A[Start (Execute Form)] --> B[Get Client IP]
+    A[Load Form] --> B[Get Client IP]
     B --> C[Get NSG IP, NSG Rule Status, Refresh TimeStamp]
     C --> D[User Click Button]
     D --> E[Update NSG with Client IP]
