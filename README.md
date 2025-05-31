@@ -20,4 +20,4 @@ This is intended to be a private hobby project to serve a specific purpose, but 
 1. Azure Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack (installs sub tools)
 
 ## References & Contributions
-1. https://github.com/yashag2255/WhiteList-IP-Address-in-Canvas-Apps/ - PowerApp Canvass app largely based on this project
+

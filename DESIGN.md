@@ -13,7 +13,7 @@ flowchart TD
 ```
 ## Application Components
 ### Power Forms
-1. Application Form with function to retrieve & display Client IP - Based on https://github.com/yashag2255/WhiteList-IP-Address-in-Canvas-Apps/
+1. Application Form with function to retrieve & display Client IP
 ### Serverless Functions
 1. Get NSG IP, NSG Rule Status, Refresh TimeStamp
 1. Update NSG with Client IP
