@@ -1,6 +1,7 @@
 # Application Design notes
 
 ## Application Flow
+Ref: https://mermaid.js.org/syntax/flowchart.html
 ```mermaid
 flowchart TD
     A[Load Form] --> B[Get Client IP]
