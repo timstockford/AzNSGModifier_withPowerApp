@@ -12,12 +12,17 @@ This is intended to be a private hobby project to serve a specific purpose, but 
 1. Merge Pull request
 1. Delete branch (Automatic)
 
+## Project Dependancies
+1. Power Apps CLI - https://learn.microsoft.com/en-us/power-platform/developer/howto/install-cli-msi
+
+### VSCode Modules used
+1. Azure Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack (installs sub tools)
+
 ## Cloning the project
 1. Clone Repo to local directory
 1. Open ??? in PowerApps Studio (https://make.powerapps.com)
 
-## VSCode Modules used
-1. Azure Tools - https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack (installs sub tools)
+
 
 ## References & Contributions
 
